@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Foxsoft Ltd: Welcome to our new look website</title>
+
+	<link rel="stylesheet" href="/stylesheets/screen.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="/stylesheets/styles.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="/stylesheets/print.css" type="text/css" media="print" charset="utf-8">
+	<!--[if IE]><link rel="stylesheet" href="/stylesheets/ie.css" type="text/css" media="screen, projection" /><![endif]-->	
+	
+</head>
+
+<body>
+
+	<div class="header">
+		<div class="container header">
+			<div class="span-24">
+				<div class="span-5">
+					<div class="hidden">
+						<img  href="/images/foxsoft-logo-black.gif" width="110px" />
+					</div>					
+					&nbsp;
+				</div>
+				<div class="span-10">
+					<div class="span-2">
+					</div>
+					<div class="span-8 last">
+						<div class="hidden">
+							<h1>foxsoft ltd</h1>
+							<h5>your dream development</h5>
+						</div>
+						&nbsp;
+					</div>
+				</div>
+				<div class="span-8 push-1 last">
+					&nbsp;
+				</div>						
+			</div>
+		</div>
+	</div>
+	
+	<div class="title">
+		<div class="container title">
+			<div class="span-24">
+				<div class="span-5">
+					&nbsp;
+				</div>
+				<div class="span-10">
+					<p>Welcome to our new look website</p>			
+				</div>
+				<div class="span-8 push-1 last">
+					<ul class="inline topmenu">
+						<li><a href="/index.html">home</a></li>
+						<li><a href="/contact.html">contact</a></li>
+						<li><a href="/services.html">services</a></li>
+						<li><a href="/about.html">about</a></li>
+						<li><a href="/blog.html" class="last">blog</a></li>
+						<!-- <li><a href="http://foxsoft.grouphub.com">login</a></li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="content">
+		<div class="container">
+
+			<div class="span-24">
+<div class="span-5">
+&nbsp;
+</div>
+<div class="span-10">
+	<p>So here it finally is. For those of you new to the world of Foxsoft, this post comes at a very significant time&#8230;</p>
+</div>
+<div class="span-8 push-1 last">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="span-24">
+<div class="span-5">
+	<h4>the birth of a new website</h4>
+</div>
+<div class="span-10">
+	<p>That&#8217;s right, after its initial inception almost a year ago we&#8217;re finally at a point where we can go live with our brand new website. I&#8217;ll admit that it&#8217;s taken much longer than I hoped (it&#8217;s been created entirely during stolen moments between projects) and there are still many things that we would still like to add, but like a new-born babe the site is going to grow in interesting and diverse directions during its life cycle.</p>
+</div>
+<div class="span-8 push-1 last">
+<p><img src="/images/articles/chick.jpg" width="190px" /></p>
+</div>
+</div>
+<div class="span-24">
+<div class="span-5">
+	<h4>so what&#8217;s new?</h4>
+</div>
+<div class="span-10">
+	<p>Everything. We&#8217;ve built the new website from the ground up; not a single line of text was taken from our old site. This is more than just a bad face-lift, we&#8217;ve put ourselves in the position of a client and left our assumptions at the door. We asked ourselves leading questions about the site, its content and what type of visitors to expect. We took nothing for granted and tried to let the content decide the design &#8211; in fact we wrote almost all the content before even sketching a wireframe.</p>
+	<p>In terms of content, we&#8217;ve gone for a much more simplistic approach.  We think that there are too many companies in the development field who try to catch people with fancy words and we don&#8217;t want to be another one.  Don&#8217;t get me wrong, I&#8217;m sure these companies are just as capable of doing the job, but we really believe that a project needs to be built on a strong relationship and we want people to know who we are before deciding if we&#8217;re the right people for the job. Not the right <em>company</em>, but the right <em>people</em>. That&#8217;s why we&#8217;re not hiding behind a corporate facade and why you can find information about (as well as articles by) each of us on the site.</p>
+	<p>There&#8217;s more than plenty I could write about the process and ideas, but perhaps that&#8217;s better left for another time.</p>
+</div>
+<div class="span-8 push-1 last">
+<p><img src="/images/articles/teddy.jpg" width="190px" /></p>
+</div>
+</div>
+<div class="span-24">
+<div class="span-5">
+	<h4>is this it then?</h4>
+</div>
+<div class="span-10">
+	<p>For right now, yes. We want to do much more with the site, but right now it&#8217;s in a state that we can go live. It might not be completely finished, but it&#8217;s better than what we had and we truly believe in taking an iterative approach to even our own projects.</p>
+	<p>From here on we&#8217;ll be monitoring the site, checking what you&#8217;re doing and how you&#8217;re doing it. Yes, we&#8217;re recording exactly what you&#8217;re doing right now and how long for. Dirty boy. Once we&#8217;ve gathered some information we&#8217;ll put it into pie charts and graphs and colour them in and talk about what direction the site should take in the future. Then we&#8217;ll change it. Then we&#8217;ll check it some more and make some more pie charts.  Oh how I love pie!</p>
+	<p>Well that brings me to the end of these minor ramblings. Now I&#8217;m off to add &#8216;journalist&#8217; to the bottom of my CV. Bye for now.</p>
+</div>
+<div class="span-8 push-1 last">
+<p><img src="/images/articles/pie.jpg" width="190px" /></p>
+</div>
+</div>
+		</div>
+	</div>
+	
+	<div class="footer">
+		<div class="container">
+			<div class="span-24">
+				<div class="span-5">
+					&nbsp;
+				</div>				
+				<div class="span-10">
+					<p>Copyright &copy; 2005-2009 %> Foxsoft Ltd</p>			
+				</div>
+				<div class="span-8 push-1 last">
+					<ul class="inline footmenu">
+						<li><a href="/home.html">home</a></li>
+						<li><a href="/legal.html">"legal"</a></li>
+					</ul>
+				</div>			
+			</div>
+	
+		</div>
+	</div>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-172732-1");
+	pageTracker._trackPageview();
+	} catch(err) {}
+	</script>
+</body>
+</html>

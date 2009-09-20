@@ -1,0 +1,87 @@
+---
+layout: default
+title: get to know us
+---
+
+<div class="span-24">
+	<div class="span-15">
+		<div class="span-15 last">
+			<p class="intro">We design and make bespoke web and Windows applications. We like to think we've got pretty good at it, but we're sure you want to judge that for yourself.</p>
+			<div class="span-7">
+				&nbsp;
+			</div>
+			<div class="span-8 last">
+				<h3 class="left">recent projects</h3>				
+				
+			</div>
+		</div>
+		<div class="span-5">
+			<h4>web development</h4>
+		</div>
+		<div class="span-2">
+			<img href="/images/2unite-jigsaw.jpg" width ="70px" />
+		</div>
+		<div class="span-8 last">
+			<h6>one for all</h6>
+			<p>In conjunction with their marketing and IT departments we took Europcar's site mock-ups and converted them... <a href="/cases/europcar-uk-ltd">keep reading</a></p>
+		</div>
+
+		<!-- <div class="span-5">
+			<h4>web design</h4>
+		</div>
+		<div class="span-2">
+			<img href="/images/ans-screenshot.jpg" width ="70px" />
+		</div>
+		<div class="span-8 last">
+			<h6>is retro the old black?</h6>
+			<p>Active Network Systems website was looking a bit tired and dated so they asked us to modernise the design, with a retro flavour. <a href="#">keep reading</a></p>
+		</div> -->
+
+		<div class="span-5">
+			<h4>application development</h4>
+		</div>
+		<div class="span-2">
+			<img href="/images/camera.jpg" width="70px" />
+		</div>
+		<div class="span-8 last">
+			<h6>say cheese</h6>
+			<p>Entrepid Communications takes care of recycling disposable cameras, but their home grown system needed some recycling of it's own. <a href="/cases/entrepid-communications">keep reading</a></p>
+		</div>
+
+	</div>
+
+	<div class="span-8 push-1 last">
+		
+		<h4 class="left">what we're writing...</h4>
+		<dl id="blog">
+			{% for post in site.posts %}
+			<dt>
+				<div class="cal">
+					{{ post.date | date: "%d" }}
+					<div>
+						{{ post.date | date: "%b" }}
+					</div>
+				</div>
+				{{ post.title }}
+			</dt>
+			<dd>
+				{{post.summary | truncate 150 }} <a href="{{ post.url }}">keep reading</a>
+			</dd>
+			    {% endfor %}
+		</dl>
+	</div>
+</div>
+
+<div class="span-24">
+
+	<div class="span-5">
+			&nbsp;
+	</div>
+	<div class="span-10">
+			&nbsp;
+	</div>
+	<div class="span-8 push-1 last">
+			&nbsp;
+	</div>
+
+</div>

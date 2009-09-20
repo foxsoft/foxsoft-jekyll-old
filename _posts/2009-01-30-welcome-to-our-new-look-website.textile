@@ -1,0 +1,58 @@
+---
+layout: default
+title: Welcome to our new look website
+summary: <p>So here it finally is. For those of you new to the world of Foxsoft, this post comes at a very significant time</p>
+permalink: welcome-to-our-new-look-website
+---
+
+<div class="span-24">
+<div class="span-5">
+  &nbsp;
+</div>
+<div class="span-10">
+	<p>So here it finally is. For those of you new to the world of Foxsoft, this post comes at a very significant time...</p>
+</div>
+<div class="span-8 push-1 last">
+	&nbsp;
+</div>
+</div>
+
+<div class="span-24">
+<div class="span-5">
+	<h4>the birth of a new website</h4>
+</div>
+<div class="span-10">
+	<p>That's right, after its initial inception almost a year ago we're finally at a point where we can go live with our brand new website. I'll admit that it's taken much longer than I hoped (it's been created entirely during stolen moments between projects) and there are still many things that we would still like to add, but like a new-born babe the site is going to grow in interesting and diverse directions during its life cycle.</p>
+</div>
+<div class="span-8 push-1 last">
+	<img src="/images/articles/chick.jpg" width="190px" />
+</div>
+</div>
+
+<div class="span-24">
+<div class="span-5">
+	<h4>so what's new?</h4>
+</div>
+<div class="span-10">
+	<p>Everything. We've built the new website from the ground up; not a single line of text was taken from our old site. This is more than just a bad face-lift, we've put ourselves in the position of a client and left our assumptions at the door. We asked ourselves leading questions about the site, its content and what type of visitors to expect. We took nothing for granted and tried to let the content decide the design - in fact we wrote almost all the content before even sketching a wireframe.</p>
+	<p>In terms of content, we've gone for a much more simplistic approach.  We think that there are too many companies in the development field who try to catch people with fancy words and we don't want to be another one.  Don't get me wrong, I'm sure these companies are just as capable of doing the job, but we really believe that a project needs to be built on a strong relationship and we want people to know who we are before deciding if we're the right people for the job. Not the right <em>company</em>, but the right <em>people</em>. That's why we're not hiding behind a corporate facade and why you can find information about (as well as articles by) each of us on the site.</p>
+	<p>There's more than plenty I could write about the process and ideas, but perhaps that's better left for another time.</p>
+</div>
+<div class="span-8 push-1 last">
+	<img src="/images/articles/teddy.jpg" width="190px" />
+</div>
+</div>
+
+<div class="span-24">
+<div class="span-5">
+	<h4>is this it then?</h4>
+</div>
+<div class="span-10">
+	<p>For right now, yes. We want to do much more with the site, but right now it's in a state that we can go live. It might not be completely finished, but it's better than what we had and we truly believe in taking an iterative approach to even our own projects.</p>
+	<p>From here on we'll be monitoring the site, checking what you're doing and how you're doing it. Yes, we're recording exactly what you're doing right now and how long for. Dirty boy. Once we've gathered some information we'll put it into pie charts and graphs and colour them in and talk about what direction the site should take in the future. Then we'll change it. Then we'll check it some more and make some more pie charts.  Oh how I love pie!</p>
+	<p>Well that brings me to the end of these minor ramblings. Now I'm off to add 'journalist' to the bottom of my CV. Bye for now.</p>
+</div>
+<div class="span-8 push-1 last">
+	<img src="/images/articles/pie.jpg" width="190px" />
+</div>
+</div>

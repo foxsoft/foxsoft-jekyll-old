@@ -1,0 +1,245 @@
+body {
+	font-size: 90%;
+	margin-top: 0;
+	color: #252E38;
+	font-family: helvetica, arial, verdana, sans-serif;
+}
+
+.hidden {
+	display: none;
+}
+
+.content .left {
+	text-align: left;
+}
+
+.span-5 h4 {
+	margin-bottom: 0;
+	height: auto;
+}
+
+.span-5 p {
+	font-style: italic;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.inline li {
+	display: inline;
+}
+
+form fieldset {
+		padding-bottom: 2.5em;
+}
+
+form fieldset p {
+	margin: 0;
+
+}
+
+form fieldset p label {
+	width: 80px;
+	float: left;
+}
+
+form fieldset p input {
+	width: 170px;
+}
+
+
+form fieldset p textarea {
+	width: 250px;
+	height: 100px;
+}
+
+form fieldset p input.submit {
+	width: auto;
+	position: absolute;
+	right:  30px;
+}
+
+.header {
+	background: #373B40 url(../images/banner.jpg) no-repeat center top;
+	height: 124px;
+}
+
+p.caption {
+	font-size: 90%;
+	color: #999;
+	font-style: italic;
+}
+
+p.caption a, p.caption a:visited {
+	color: #999;
+}
+
+.title {
+	height: 76px;
+	background: url(../images/pagetitle.jpg) no-repeat center top;
+}
+
+.title p {
+	margin-top: 1.1em;
+	font-size: 150%;
+	margin-top: 1.6em;
+	font-size: 200%;
+	margin-top: 0.9em;
+	font-family: "arial black", arial , sans-serif;
+	color: #2E5785;
+}
+
+.topmenu {
+	margin: 0;
+	margin-top: 2.3em;
+}
+
+.topmenu a {
+	padding: 0.5em;
+	margin-right: 0.3em;
+	border: 1px solid #7F9FC4;
+	background-color: #fefeff;
+	text-decoration: none;
+	color: #2E5785;;
+}
+
+.topmenu a.last {
+	margin-right: 0;
+}
+
+.topmenu a:hover {
+	background-color: #2E5785;
+	color: white;
+}
+
+.content {
+	border-top: 1px solid #7F9FC4;
+	border-bottom: 1px solid #7F9FC4;
+	padding-top: 2em;
+}
+
+.content h3, .content h4 {
+	color: #2E5785;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.content p {
+	margin-top: 0.2em;
+}
+
+.content a {
+	color: #a1383a;
+}
+
+.content a:hover {
+	color: #4078b8;
+}
+
+.content a:visited {
+	color: #4078b8;
+}
+
+#blog dt, h6 {
+	color: #2E5785;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#blog .cal {
+	float: left;
+	margin-right: 0.4em;
+	margin-top: 0.1em;
+	font-size: 1.6em;
+	text-align: center;
+	border: 1px #2E5785 solid;
+	width: 1.7em;
+	}
+
+#blog .cal div {
+	font-size: 0.6em;
+	font-family: helvetica, arial, verdana, sans-serif;
+	background: #49617b url(../images/breakout.gif) repeat-x left top;	
+	color: white;
+	padding: 0.1em;
+	padding-top: 0.2em;
+	padding-bottom: 0em;
+}
+
+#blog dd {
+	margin-bottom: 2em;
+	margin-left: 0;
+	margin-top: 0.5em;
+}
+
+#blog dd p {
+	margin: 0;
+	display: inline;
+}
+
+div#blog {
+	font-size: 150%;
+}
+
+.content .breakout {
+	color: #fefeff;
+	padding: 1.95em 1.7em;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	border: 1px solid #2E5785;
+	background: #49617b url(../images/breakout.gif) repeat-x left top;
+}
+
+.content .breakout {
+	font-size: 0.8em;
+	line-height: 1.85em;
+}
+
+.content .breakout a {
+	color: #EDC989;
+}
+
+.content .breakout a:hover {
+	color: #fbe1b3;
+}
+
+.content .thanks, .content .intro {
+	border: 2px solid #EDC989;
+	background-color: #fbe1b3;
+	padding: 1.95em 1.7em;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	color: #555;	
+}
+
+.content .thanks {
+	font-weight: bold;
+}
+
+blockquote {
+	margin:0;
+	margin-bottom:21px;
+	padding: 0 21px 0 0;
+}
+
+blockquote + p {
+	margin-bottom: 3em;
+}
+
+.footer {
+	margin-top: 1em;
+	color: #888;
+}
+
+.footer .footmenu {
+	margin: 0;
+}
+
+.footer a {
+	color: #888;
+	margin-right: 1em;
+}
+
+.footer a:hover {
+	color: #4078b8;
+}
